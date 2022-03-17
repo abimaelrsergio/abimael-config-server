@@ -3,4 +3,4 @@ spring:
     name: saudacao-service
 saudacao-service:
   saudacao: "Olá"
-  default-value: "DEV"    
+  default-value: "default"    
