@@ -2,5 +2,5 @@ spring:
   application:
     name: saudacao-service
 saudacao-service:
-  saudacao: "QA, tudo bem?"
+  saudacao: "QA, tudo bem? 2022"
   default-value: "QA"    
